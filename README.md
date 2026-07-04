@@ -5,7 +5,7 @@ A responsive Weather Application built using **HTML**, **CSS**, and **JavaScript
 ## 🚀 Live Demo
 
 🔗 Add your live website link here:
-https://your-live-demo-link.com
+[https://your-live-demo-link.com](https://shivamyadav8182.github.io/Weather-App/)
 
 ## 📸 Preview
 
@@ -134,7 +134,7 @@ Feel free to fork this repository and submit a pull request.
 
 **Shivam Yadav**
 
-- GitHub: https://github.com/your-github-username
+- GitHub: https://github.com/your-github-[username](https://github.com/Shivamyadav8182)  
 - LinkedIn: https://linkedin.com/in/your-linkedin-profile
 
 ---
