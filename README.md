@@ -11,10 +11,9 @@ https://your-live-demo-link.com
 
 > Add a screenshot or GIF of your Weather App here.
 
-<p align="center">
-  <img src="assets/weather-app.png" alt="<img width="1876" height="881" alt="Weather app  png" src="https://github.com/user-attachments/assets/be7eebf7-6906-4ead-9140-4272c00bcd3b" />
-" width="900">
-</p>
+
+
+<img width="1876" height="881" alt="Screenshot 2026-07-04 131348" src="https://github.com/user-attachments/assets/7474ed5b-66ec-4e24-8f36-d56bf6f949e1" />
 
 ---
 
@@ -131,10 +130,6 @@ Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
 ---
-
-## 📧 Contact
-
-<img width="1876" height="881" alt="Screenshot 2026-07-04 131348" src="https://github.com/user-attachments/assets/7474ed5b-66ec-4e24-8f36-d56bf6f949e1" />
 
 
 **Shivam Yadav**
