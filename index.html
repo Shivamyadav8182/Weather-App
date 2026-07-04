@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Website</title>
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet"
+href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head><link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700&display=swap" rel="stylesheet">
+<body>
+   <div class="Wrapper">
+    <h1>WEATHER APP</h1>
+    <div class="tab-container">
+        <p class="tab" data-UserWeather> Your Weather</p>
+        <p class="tab" data-SearchWeather> Search Weather</p>
+    </div>
+    <div class="Weather-container">
+
+        <div class="grant-location-Container">
+            <img src="vecteezy_location-pin-icon-isolated-on-white-background_11690044.jpg" alt="" width="80" height="80" loading="lazy">
+            <p>Grant Location Access</p>
+            <p>Allow Access to get weather Information</p>
+            <button class=" btn1" data-Grant-Access>Grant Access</button>
+        </div>
+        <!-- Search from -->
+         <form class="from-container" data-Searchfrom>
+         <input placeholder="Search for city " data-searchInput>
+         <button class="btn">
+    <i class="fa-solid fa-magnifying-glass"></i>
+</button>
+         </form>
+
+         <!-- loading container -->
+          <div class="loading-Container">
+            <img src="loading.gif" alt="" width="75" height="75">
+          </div>
+          <!-- search weatheer container -->
+   
+        <div class="your-info-container">
+            <div class="name">
+                <p data-cityName></p>
+                <img data-countryIcon>    
+            </div>
+            <p data-weatherDesc></p>
+            <img data-Weather-icon>
+            <p data-temp></p>
+            
+            <div class="threebox">
+                  <!-- card 1 -->
+                 <div class="parameter">
+                    <img src=" Screenshot 2026-07-04 071231.png" alt="" width="75" height="75">
+                    <p>WINTERSPEED</p>
+                    <p data-windspeed ></p>
+                 </div>
+
+                <!-- card 2 -->
+                 <div class="parameter">
+                    <img src="Screenshot 2026-07-04 071259.png" alt="" width="75" height="75">
+                    <p>HUMIDITY</p>
+                    <p data-humidity ></p>
+                 </div>
+
+                  <!-- card 3 -->
+                 <div class="parameter">
+                    <img src=" Screenshot 2026-07-04 071347.png" alt=""width="75" height="75">
+                    <p>CLOUDS</p>
+                    <p data-Cloudiness ></p>
+                 </div>
+
+            </div>
+        </div>
+   
+        </div>
+
+   </div>
+
+    <script src="index.js"></script>
+
+</body>
+</html>
