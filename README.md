@@ -13,7 +13,7 @@ A responsive Weather Application built using **HTML**, **CSS**, and **JavaScript
 >
 
 <p align="center">
-  <img src="./images/weather-app.png" alt="Weather App Screenshot" width="900">
+  <img src="./images/Weather-app.png" alt="Weather App Screenshot" width="900">
 </p>
 ---
 
