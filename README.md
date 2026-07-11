@@ -4,13 +4,8 @@ A responsive Weather Application built using **HTML**, **CSS**, and **JavaScript
 
 ## 🚀 Live Demo
 
-
 🔗 https://weather-app-delta-eight-50.vercel.app
 
-## 📸 Preview
-
-> Add a screenshot or GIF of your Weather App here.
->
 ## 📸 Preview
 
 ![Weather App Screenshot](./Screenshot%202026-07-11%20191037.png)
