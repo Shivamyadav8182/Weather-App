@@ -4,8 +4,8 @@ A responsive Weather Application built using **HTML**, **CSS**, and **JavaScript
 
 ## 🚀 Live Demo
 
-🔗 Add your live website link here:
-weather-454mdbr6c-shivamyadav8182.vercel.app
+
+🔗 https://weather-app-delta-eight-50.vercel.app
 
 ## 📸 Preview
 
