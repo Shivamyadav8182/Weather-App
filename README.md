@@ -11,7 +11,7 @@ A responsive Weather Application built using **HTML**, **CSS**, and **JavaScript
 
 > Add a screenshot or GIF of your Weather App here.
 >
-![Weather App Screenshot](Screenshot%202026-07-11%191037.png)
+![Weather App Screenshot](Screenshot 2026-07-11 191037.png)
 
 ## ✨ Features
 
